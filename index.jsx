@@ -1,4 +1,3 @@
-// import { useState, useMemo } from "react";
 const { useState, useMemo } = React;
 
 const NEW_REGIME_SLABS = [
@@ -63,7 +62,7 @@ const slabNames = [
   "Above ₹24L (30%)",
 ];
 
-export default function TaxCalculator() {
+function TaxCalculator() {
   const [rawInput, setRawInput] = useState("150000");
 
   const targetMonthly = useMemo(() => {
