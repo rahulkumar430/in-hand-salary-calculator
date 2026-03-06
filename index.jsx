@@ -1,4 +1,5 @@
 // import { useState, useMemo } from "react";
+const { useState, useMemo } = React;
 
 const NEW_REGIME_SLABS = [
   { min: 0, max: 400000, rate: 0 },
