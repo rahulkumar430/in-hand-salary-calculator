@@ -2,6 +2,14 @@
 
 A clean, interactive React app to calculate your **required gross/CTC** for any desired monthly in-hand salary under India's New Tax Regime.
 
+👉 [Live Demo](https://rahulkumar430.github.io/in-hand-salary-calculator/)
+
+## 🚀 Preview
+
+<a href="https://rahulkumar430.github.io/in-hand-salary-calculator/">
+  <img src="./assets/preview.png" width="700"/>
+</a>
+
 ## Features
 
 - Enter any monthly in-hand target — results update instantly
